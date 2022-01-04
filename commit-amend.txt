@@ -1,0 +1,1 @@
+# push 후 commit --amend를 사용하면 어떻게 될까?
