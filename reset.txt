@@ -3,3 +3,5 @@
 # push 했을 때 
 1. git reset --mixed
 2. commit 을 하면 안됨
+
+# git shell로 reset하기
