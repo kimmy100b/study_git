@@ -5,3 +5,5 @@
 2. commit 을 하면 안됨
 
 # git shell로 reset하기
+
+# add
